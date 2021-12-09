@@ -1,0 +1,5 @@
+C:\Users\Shivam Shekhar\source\DAY 29\IndianStateCensusAnalyzer\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyzer.csproj.AssemblyReference.cache
+C:\Users\Shivam Shekhar\source\DAY 29\IndianStateCensusAnalyzer\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\DAY 29\IndianStateCensusAnalyzer\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\DAY 29\IndianStateCensusAnalyzer\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyzer.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\DAY 29\IndianStateCensusAnalyzer\obj\Debug\netcoreapp3.1\IndianStateCensusAnalyzer.csproj.CoreCompileInputs.cache
